@@ -1,2 +1,2 @@
 # Background-Material
-This Reposity is for collecting some background materials.
+This Repository is for collecting some background materials.
